@@ -23,7 +23,7 @@
     <a href="https://www.instagram.com/je_ramirez05/" target="_blank">
     <img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="@iamjuaness" /></a>
     <a href="www.linkedin.com/in/juan-esteban-ramirez-tabares-1a85b3275"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@juanRamirez"/></a>
-    <a href = "mailto:juane.ramirezt@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@iamjuaness" /></a>
+    <a href = "mailto:juane.ramirezt@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@juanramirez" /></a>
   </p>
 <br>
 <h2 align="center">About me 😎🤏</h2>
