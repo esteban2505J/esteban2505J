@@ -8,8 +8,10 @@
 <br> -->
 
 
- > "Whether you think you can or you think you can't, you're right "  
-  > — *Henry Ford*
+ > "Slow progress
+is better than
+no progress. "  
+  > — *A Dremer*
 
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
