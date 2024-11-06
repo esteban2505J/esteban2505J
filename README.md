@@ -11,7 +11,7 @@
  > "Slow progress
 is better than
 no progress. "  
-  > — *A Dremer*
+  > — *A Dreamer*
 
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
