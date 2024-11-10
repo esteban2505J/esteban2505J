@@ -8,9 +8,7 @@
 <br> -->
 
 
- > "Slow progress
-is better than
-no progress. "  
+ > "Volnuratus non victus"  
   > — *A Dreamer*
 
 <br>
