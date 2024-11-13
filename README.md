@@ -81,7 +81,7 @@
 
 
 </table>
-
+<p align="center"><a href="https://github.com/esteban2505J"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteban2505J&theme=radical&layout=compact"></a></p>
 </p>       
 <br/>
 <br/>
