@@ -8,8 +8,8 @@
 <br> -->
 
 
- > "Volnuratus non victus"  
-  > — *A Dreamer*
+ >"limitate al presente "  
+  > — *Marco Aurelio*
 
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
