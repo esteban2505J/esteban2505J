@@ -8,7 +8,8 @@
 <br> -->
 
 
- >"limitate al presente "  
+ > "El guerrero no se mide por la fuerza de sus golpes, sino por su capacidad de levantarse con dignidad tras cada caída."
+ 
   > — *Marco Aurelio*
 
 <br>
