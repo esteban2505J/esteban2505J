@@ -10,7 +10,7 @@
 
  > "volnuratus non victus"
  
-  > — *Marco Aurelio*
+  > — * *
 
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
