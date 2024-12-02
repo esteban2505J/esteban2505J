@@ -8,9 +8,9 @@
 <br> -->
 
 
- > "You have power over your mind - not outside events. Realize this, and you will find strength."
+ > "Man is nothing else but what he makes of himself."
  
-  > — *Marco Aurelio*
+  > — *Jean-Paul Sartre*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
