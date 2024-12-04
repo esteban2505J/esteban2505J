@@ -10,7 +10,7 @@
 
  > "Man is nothing else but what he makes of himself."
  
-  > — *Jean-Paul Sartre*
+  > — *Jean Paul Sartre*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
