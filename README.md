@@ -8,7 +8,7 @@
 <br> -->
 
 
- > "Man is nothing else but what he makes of himself."
+ > "volnuratus non victus"
  
   > — *Jean Paul Sartre*
 <br>
