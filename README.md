@@ -10,7 +10,7 @@
 
  > "volnuratus non victus"
  
-  > — *Jean Paul Sartre*
+  > — *Sócrates*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
