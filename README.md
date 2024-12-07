@@ -10,7 +10,7 @@
 
  > "volnuratus non victus"
  
-  > — *Sócrates*
+  > — *Platón*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
