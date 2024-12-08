@@ -8,9 +8,9 @@
 <br> -->
 
 
- > "volnuratus non victus"
+ > "It is not what happens to you, but how you react to it that matters"
  
-  > — *Platón*
+  > — *Epictetus*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
