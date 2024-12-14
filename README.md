@@ -10,7 +10,7 @@
 
  > "It is not what happens to you, but how you react to it that matters"
  
-  > — *Platon*
+  > — *Platón*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
