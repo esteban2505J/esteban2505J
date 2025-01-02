@@ -8,9 +8,9 @@
 <br> -->
 
 
- > "It is not what happens to you, but how you react to it that matters"
+ > "Our greatest glory is not in never falling, but in rising every time we fall."
  
-  > — *Platón*
+  > — *Confucius*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
