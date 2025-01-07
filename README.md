@@ -8,9 +8,9 @@
 <br> -->
 
 
- > "Our greatest glory is not in never falling, but in rising every time we fall."
+ > "Success is the sum of small efforts, repeated day in and day out."
  
-  > — *Confucius*
+  > — *Robert Collier*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
