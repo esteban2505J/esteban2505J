@@ -8,7 +8,7 @@
 <br> -->
 
 
- > "Success is the sum of small efforts, repeated day in and day out."
+ > "You only fail when you stop trying"
  
   > — *Robert Collier*
 <br>
