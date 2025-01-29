@@ -8,7 +8,7 @@
 <br> -->
 
 
- > "You only fail when you stop trying"
+ > "You only fail when you stop trying."
  
   > — *Robert Collier*
 <br>
