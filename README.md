@@ -10,7 +10,7 @@
 
  > "You only fail when you stop trying"
  
-  > — *Robert Collier.*
+  > — *Robert Collier*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
