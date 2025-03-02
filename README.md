@@ -8,9 +8,9 @@
 <br> -->
 
 
- > "You only fail when you stop trying."
+ > "Despite fear, finish the job."
  
-  > — *Robert Collier*
+  > — *Kobe Bryant*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
