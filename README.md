@@ -8,7 +8,7 @@
 <br> -->
 
 
- > "Despite fear, finish the job."
+ > "Despite fear, finish the job"
  
   > — *Kobe Bryant*
 <br>
