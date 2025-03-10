@@ -86,7 +86,7 @@
 </p>       
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=esteban2505J&bg_color=040f0f&color=fcfcfc&line=ffffff&point=78ec46&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=esteban2505J&bg_color=020f0f&color=fcfcfc&line=ffffff&point=00e025&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 
