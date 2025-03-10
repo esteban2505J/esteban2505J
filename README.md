@@ -65,6 +65,7 @@
 <!------------------------->
 <h2>GitHub :octocat:</h2>
 <p align="center">
+
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
@@ -84,6 +85,10 @@
 <p align="center"><a href="https://github.com/esteban2505J"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteban2505J&theme=blue-green&layout=compact"></a></p>
 </p>       
 <br/>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=esteban2505J&radius=16&theme=blue-green&area=true&order=5" height="250" alt="activity-graph graph"/>
+</div>
 <br/>
 
 
