@@ -86,9 +86,7 @@
 </p>       
 <br/>
 
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=esteban2505J&radius=16&theme=blue-green&area=true&order=5" height="250" alt="activity-graph graph"/>
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=esteban2505J&bg_color=040f0f&color=fcfcfc&line=ffffff&point=78ec46&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 
