@@ -10,7 +10,7 @@
 
  > "Despite fear, finish the job."
  
-  > — *Kobe Bryant.*
+  > — *Kobe Bryant*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
