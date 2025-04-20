@@ -8,9 +8,9 @@
 <br> -->
 
 
- > "Despite fear, finish the job."
+ > "Strive not to be a success, but rather to be of value." 
  
-  > — *Kobe Bryant*
+  > — *Albert Einstein.*
 <br>
 <h1 align="center">Hello 👋 I am Juan Ramírez</strong> ✨ </h1>
 
