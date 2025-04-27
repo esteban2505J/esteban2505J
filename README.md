@@ -8,7 +8,7 @@
 <br> -->
 
 
- > "Strive not to be a success, but rather to be of value" 
+ > "Strive not to be a success, but rather to be of value." 
  
   > — *Albert Einstein*
 <br>
